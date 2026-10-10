@@ -1,0 +1,22 @@
+﻿  lab1_7.cpp
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(17,5): error C2065: 'Account': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(17,13): error C2146: syntax error: missing ';' before identifier 'acc1'
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(17,13): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(17,20): error C3861: 'makeAccount': identifier not found
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(18,5): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(21,13): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(26,5): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(27,5): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(32,9): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(38,5): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(41,5): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(42,5): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(45,63): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(46,57): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(49,5): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(50,5): error C2065: 'acc1': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(53,5): error C2065: 'Account': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(53,13): error C2146: syntax error: missing ';' before identifier 'userAcc'
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(53,13): error C2065: 'userAcc': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(54,5): error C2065: 'userAcc': undeclared identifier
+C:\Users\Admin\source\repos\KURS2\lab1_7\lab1_7\lab1_7.cpp(57,5): error C2065: 'userAcc': undeclared identifier
